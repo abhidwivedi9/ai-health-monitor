@@ -1,1 +1,1 @@
-# AI Health Monitor - DevOps + AI Project
+# AI Health Monitor
